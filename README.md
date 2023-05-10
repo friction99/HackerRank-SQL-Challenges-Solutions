@@ -4,7 +4,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 
 
-## Description
+
 The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 ## Domains
